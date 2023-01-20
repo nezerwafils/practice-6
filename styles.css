@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background-image: url(./feel.avif);
+}
+.card {
+  width: 800px;
+  padding: 5rem;
+  color: aliceblue;
+}
+.heading {
+  font-size: 3.5rem;
+  margin-bottom: 2rem;
+}
+.about {
+  font-size: 1.9rem;
+  margin-bottom: 4rem;
+}
+.watch {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+button {
+  width: 15rem;
+  height: 3rem;
+  font-size: 1.5rem;
+}
+.btn-1 {
+  margin-bottom: 0rem;
+}
+.btn-3 {
+  padding-left: 70rem;
+  padding-top: 1rem;
+}
+.btn-2 {
+  font-size: 1rem;
+  background-color: transparent;
+  color: aliceblue;
+  border: none;
+}
